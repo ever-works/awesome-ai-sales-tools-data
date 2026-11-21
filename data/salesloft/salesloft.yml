@@ -1,0 +1,12 @@
+name: "Salesloft"
+description: "Revenue orchestration platform with AI-driven email outreach, conversation intelligence, and sales workflow automation. Used by enterprise sales teams to manage the revenue cycle. Paid pricing."
+source_url: "https://www.salesloft.com/"
+category: "AI Email Outreach"
+tags:
+  - "ai-powered"
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.salesloft.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.salesloft.com/>\n"
+updated_at: "2026-11-21 00:54"

@@ -1,0 +1,12 @@
+- id: ai-sdrs
+  name: "AI SDRs"
+- id: prospecting-and-enrichment
+  name: "Prospecting & Enrichment"
+- id: conversation-intelligence
+  name: "Conversation Intelligence"
+- id: ai-email-outreach
+  name: "AI Email Outreach"
+- id: crm-ai-assistants
+  name: "CRM AI Assistants"
+- id: sales-coaching
+  name: "Sales Coaching"

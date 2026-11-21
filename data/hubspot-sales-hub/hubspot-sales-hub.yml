@@ -1,0 +1,12 @@
+name: "HubSpot Sales Hub"
+description: "CRM sales platform with AI-powered email writing, deal forecasting, and prospecting tools. Offers a free CRM tier and paid professional/enterprise editions. Cloud deployment."
+source_url: "https://www.hubspot.com/"
+category: "CRM AI Assistants"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.hubspot.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.hubspot.com/>\n"
+updated_at: "2026-11-21 00:54"

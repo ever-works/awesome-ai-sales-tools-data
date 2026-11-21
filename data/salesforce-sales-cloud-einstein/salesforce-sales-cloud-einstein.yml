@@ -1,0 +1,12 @@
+name: "Salesforce Sales Cloud Einstein"
+description: "AI capabilities embedded in Salesforce Sales Cloud, including predictive lead scoring, opportunity insights, and automated activity capture. For enterprise CRM users. Paid enterprise licensing."
+source_url: "https://www.salesforce.com/"
+category: "CRM AI Assistants"
+tags:
+  - "ai-powered"
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.salesforce.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.salesforce.com/>\n"
+updated_at: "2026-11-21 00:54"

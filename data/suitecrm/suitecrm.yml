@@ -1,0 +1,12 @@
+name: "SuiteCRM"
+description: "Open-source CRM fork of SugarCRM with sales automation, reporting, and module customization. Self-hosted by organizations wanting full data control. Community and paid support options."
+source_url: "https://suitecrm.com/"
+category: "CRM AI Assistants"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/suitecrm.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://suitecrm.com/>\n- Repository: <https://github.com/salesagility/SuiteCRM>\n\nLicense: GNU AGPL v3.\n"
+updated_at: "2026-11-21 00:54"

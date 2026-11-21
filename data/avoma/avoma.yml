@@ -1,0 +1,12 @@
+name: "Avoma"
+description: "AI meeting assistant for sales teams that transcribes calls, summarizes notes, and tracks deal intelligence. Supports coaching and CRM syncing. Freemium and paid plans."
+source_url: "https://www.avoma.com/"
+category: "Conversation Intelligence"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.avoma.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.avoma.com/>\n"
+updated_at: "2026-11-21 00:54"

@@ -1,0 +1,13 @@
+name: "Odoo"
+description: "Open-source business application suite including CRM, sales, and marketing automation modules. Community edition is self-hosted; enterprise cloud version includes AI features. AGPL license."
+source_url: "https://www.odoo.com/"
+category: "CRM AI Assistants"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "paid"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/www.odoo.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.odoo.com/>\n- Repository: <https://github.com/odoo/odoo>\n\nLicense: GNU AGPL v3.\n"
+updated_at: "2026-11-21 00:54"
